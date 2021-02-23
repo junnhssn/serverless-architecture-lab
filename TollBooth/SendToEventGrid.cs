@@ -9,6 +9,7 @@ using Microsoft.Azure.WebJobs.Host;
 using Microsoft.Extensions.Logging;
 using TollBooth.Models;
 
+
 namespace TollBooth
 {
     public class SendToEventGrid
